@@ -1,0 +1,2 @@
+# blogs
+my daily blog
